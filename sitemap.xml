@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url><loc>https://status.skribly.pl/</loc><xhtml:link rel="alternate" hreflang="en" href="https://status.skribly.pl/"/><xhtml:link rel="alternate" hreflang="pl" href="https://status.skribly.pl/pl/"/></url>
+<url><loc>https://status.skribly.pl/licenses/</loc><xhtml:link rel="alternate" hreflang="en" href="https://status.skribly.pl/licenses/"/><xhtml:link rel="alternate" hreflang="pl" href="https://status.skribly.pl/pl/licencje/"/></url>
+<url><loc>https://status.skribly.pl/incidents/</loc><xhtml:link rel="alternate" hreflang="en" href="https://status.skribly.pl/incidents/"/><xhtml:link rel="alternate" hreflang="pl" href="https://status.skribly.pl/pl/incydenty/"/></url>
+<url><loc>https://status.skribly.pl/incidents/status-page-rehearsal/</loc><lastmod>2026-11-11T00:00:00.000Z</lastmod><xhtml:link rel="alternate" hreflang="en" href="https://status.skribly.pl/incidents/status-page-rehearsal/"/><xhtml:link rel="alternate" hreflang="pl" href="https://status.skribly.pl/pl/incydenty/proba-strony-statusu/"/></url>
+<url><loc>https://status.skribly.pl/pl/</loc><xhtml:link rel="alternate" hreflang="pl" href="https://status.skribly.pl/pl/"/><xhtml:link rel="alternate" hreflang="en" href="https://status.skribly.pl/"/></url>
+<url><loc>https://status.skribly.pl/pl/licencje/</loc><xhtml:link rel="alternate" hreflang="pl" href="https://status.skribly.pl/pl/licencje/"/><xhtml:link rel="alternate" hreflang="en" href="https://status.skribly.pl/licenses/"/></url>
+<url><loc>https://status.skribly.pl/pl/incydenty/</loc><xhtml:link rel="alternate" hreflang="pl" href="https://status.skribly.pl/pl/incydenty/"/><xhtml:link rel="alternate" hreflang="en" href="https://status.skribly.pl/incidents/"/></url>
+<url><loc>https://status.skribly.pl/pl/incydenty/proba-strony-statusu/</loc><lastmod>2026-11-11T00:00:00.000Z</lastmod><xhtml:link rel="alternate" hreflang="pl" href="https://status.skribly.pl/pl/incydenty/proba-strony-statusu/"/><xhtml:link rel="alternate" hreflang="en" href="https://status.skribly.pl/incidents/status-page-rehearsal/"/></url>
+</urlset>

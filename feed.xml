@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Skribly status: incidents</title>
+<link>https://status.skribly.pl/</link>
+<description>The state of the public Skribly sites, checked on a schedule, with the incidents we write up by hand.</description>
+<language>en</language>
+<atom:link href="https://status.skribly.pl/feed.xml" rel="self" type="application/rss+xml"/>
+<item><title>Rehearsal of the status page</title><link>https://status.skribly.pl/incidents/status-page-rehearsal/</link><guid isPermaLink="true">https://status.skribly.pl/incidents/status-page-rehearsal/</guid><pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate><description>A drill that shows how an incident reads on this page. No service was affected.</description></item>
+</channel>
+</rss>

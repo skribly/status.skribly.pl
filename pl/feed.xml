@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Status Skribly: incydenty</title>
+<link>https://status.skribly.pl/pl/</link>
+<description>Stan publicznych stron Skribly, sprawdzany według harmonogramu, wraz z incydentami opisywanymi ręcznie.</description>
+<language>pl</language>
+<atom:link href="https://status.skribly.pl/pl/feed.xml" rel="self" type="application/rss+xml"/>
+<item><title>Próba strony statusu</title><link>https://status.skribly.pl/pl/incydenty/proba-strony-statusu/</link><guid isPermaLink="true">https://status.skribly.pl/pl/incydenty/proba-strony-statusu/</guid><pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate><description>Ćwiczenie pokazujące, jak incydent wygląda na tej stronie. Żadna usługa nie została dotknięta.</description></item>
+</channel>
+</rss>

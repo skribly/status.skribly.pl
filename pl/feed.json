@@ -1,0 +1,20 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Status Skribly: incydenty",
+  "home_page_url": "https://status.skribly.pl/pl/",
+  "feed_url": "https://status.skribly.pl/pl/feed.json",
+  "description": "Stan publicznych stron Skribly, sprawdzany według harmonogramu, wraz z incydentami opisywanymi ręcznie.",
+  "language": "pl",
+  "items": [
+    {
+      "id": "https://status.skribly.pl/pl/incydenty/proba-strony-statusu/",
+      "url": "https://status.skribly.pl/pl/incydenty/proba-strony-statusu/",
+      "title": "Próba strony statusu",
+      "summary": "Ćwiczenie pokazujące, jak incydent wygląda na tej stronie. Żadna usługa nie została dotknięta.",
+      "content_html": "<p>To próba, a nie incydent. Żadna usługa Skribly nie została dotknięta. Pokazuje, jak incydent wygląda na tej stronie, i zniknie po opisaniu pierwszego prawdziwego incydentu.</p>\n<h2>Oś czasu</h2>\n<ul>\n<li><strong>08:00 UTC, Badamy.</strong> Co zobaczyliśmy: objaw i których stron dotyczy.</li>\n<li><strong>08:20 UTC, Znaleziono przyczynę.</strong> Co okazało się przyczyną.</li>\n<li><strong>08:40 UTC, Obserwujemy.</strong> Co zmieniliśmy i co obserwujemy.</li>\n<li><strong>09:00 UTC, Rozwiązane.</strong> Strony znów odpowiadają. Krótka uwaga o tym, co dalej.</li>\n</ul>\n<h2>Jak pisze się incydent</h2>\n<p>Incydent to jeden plik Markdown na język w <code>status/src/content/incidents/</code>. Najnowsza aktualizacja trafia na koniec osi czasu, a streszczenie mówi, jak sprawy stoją teraz.</p>",
+      "date_published": "2026-11-11T00:00:00.000Z",
+      "date_modified": "2026-11-11T00:00:00.000Z",
+      "language": "pl"
+    }
+  ]
+}

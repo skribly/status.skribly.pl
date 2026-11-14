@@ -1,0 +1,20 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Skribly status: incidents",
+  "home_page_url": "https://status.skribly.pl/",
+  "feed_url": "https://status.skribly.pl/feed.json",
+  "description": "The state of the public Skribly sites, checked on a schedule, with the incidents we write up by hand.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://status.skribly.pl/incidents/status-page-rehearsal/",
+      "url": "https://status.skribly.pl/incidents/status-page-rehearsal/",
+      "title": "Rehearsal of the status page",
+      "summary": "A drill that shows how an incident reads on this page. No service was affected.",
+      "content_html": "<p>This is a rehearsal, not an incident. No Skribly service was affected. It shows how an incident reads here, and it is removed once the first real incident has been written up.</p>\n<h2>Timeline</h2>\n<ul>\n<li><strong>08:00 UTC, Investigating.</strong> What we saw: the symptom, and which sites it touches.</li>\n<li><strong>08:20 UTC, Identified.</strong> What we found to be the cause.</li>\n<li><strong>08:40 UTC, Monitoring.</strong> What we changed, and what we are watching.</li>\n<li><strong>09:00 UTC, Resolved.</strong> The sites answer again. A short note on what happens next.</li>\n</ul>\n<h2>How an incident is written</h2>\n<p>An incident is one Markdown file per language under <code>status/src/content/incidents/</code>. The newest update goes at the bottom of the timeline and the summary says where things stand now.</p>",
+      "date_published": "2026-11-11T00:00:00.000Z",
+      "date_modified": "2026-11-11T00:00:00.000Z",
+      "language": "en"
+    }
+  ]
+}
